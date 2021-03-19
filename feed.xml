@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://your-site-url/feed.xml" rel="self" type="application/atom+xml" /><link href="https://your-site-url/" rel="alternate" type="text/html" /><updated>2021-03-17T15:08:15-05:00</updated><id>https://your-site-url/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to be a web developer. This is my blog where I display my front-end projects and occasionally I write about my experiences in tech matters.</subtitle><entry><title type="html">My New Bootstrap Post</title><link href="https://your-site-url/2020/11/15/my-new-post.html" rel="alternate" type="text/html" title="My New Bootstrap Post" /><published>2020-11-15T18:13:00-05:00</published><updated>2020-11-15T18:13:00-05:00</updated><id>https://your-site-url/2020/11/15/my-new-post</id><content type="html" xml:base="https://your-site-url/2020/11/15/my-new-post.html">&lt;h2 id=&quot;bootstrap-forms&quot;&gt;Bootstrap forms&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://your-site-url/feed.xml" rel="self" type="application/atom+xml" /><link href="https://your-site-url/" rel="alternate" type="text/html" /><updated>2021-03-19T13:45:08-05:00</updated><id>https://your-site-url/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to be a web developer. This is my blog where I display my front-end projects and occasionally I write about my experiences in tech matters.</subtitle><entry><title type="html">My CV</title><link href="https://your-site-url/2021/03/17/my-cv.html" rel="alternate" type="text/html" title="My CV" /><published>2021-03-17T16:51:00-05:00</published><updated>2021-03-17T16:51:00-05:00</updated><id>https://your-site-url/2021/03/17/my-cv</id><content type="html" xml:base="https://your-site-url/2021/03/17/my-cv.html">&lt;h1 id=&quot;sachic&quot;&gt;sachic&lt;/h1&gt;
+&lt;h2 id=&quot;junior-web-programmer&quot;&gt;Junior Web Programmer&lt;/h2&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Junior Web Programmer&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;company&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ideándola&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-10-07&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2020-04-30&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Duties&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Dynamic Websites Development using personalized  designs or templates&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Using of PHP in Wordpress to modify the behavior of  taxonomies, hooks, 
+    fields and filters and Wordpress core&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Responsive design on websites&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Programming of events for menus, buttons, drop-down  menus, etcetera&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;                                                                                
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Technologies&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn.svgporn.com/logos/wordpress-icon.svg#thumbnail&quot; alt=&quot;Wordpress&quot; /&gt;
+&lt;img src=&quot;https://cdn.svgporn.com/logos/html-5.svg#thumbnail&quot; alt=&quot;HTML5&quot; /&gt;
+&lt;img src=&quot;https://cdn.svgporn.com/logos/css-3.svg#thumbnail&quot; alt=&quot;CSS3&quot; /&gt;
+&lt;img src=&quot;https://clipground.com/images/jquery-icon-clipart.jpg#thumbnail&quot; alt=&quot;jQuery&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Administrative Resident (Building Construction)&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;company&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Payc&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2015-09-30&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-09-14&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Duties&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Budget Control and report of projects advancements&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Making monthly reports for clients using graphs and tables to 
+    summarize data&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Achievemnts: Using Pandas library, Excel, Power Query and Power BI to 
+    improve data handling&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;                                                                                
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Technologies&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*93CVLqnQESmvfOhzvYUgQw.png#thumbnail&quot; alt=&quot;Pandas&quot; /&gt;
+&lt;img src=&quot;https://openclipart.org/image/800px/173140#thumbnail&quot; alt=&quot;Excel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;**&lt;/p&gt;
+
+&lt;h2 id=&quot;credits&quot;&gt;Credits:&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Wordpress, HTML5, CSS3 logos: https://cdn.svgporn.com/
+jQuery logo: https://clipground.com/
+Pandas logo: ttps://towardsdatascience.com/
+Excel logo: https://openclipart.org/&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;style&gt;
+    img[src*=&quot;#thumbnail&quot;] {
+        width:150px;
+        height:100px;
+    }
+&lt;/style&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html">sachic Junior Web Programmer</summary></entry><entry><title type="html">My New Bootstrap Post</title><link href="https://your-site-url/2020/11/15/my-new-post.html" rel="alternate" type="text/html" title="My New Bootstrap Post" /><published>2020-11-15T18:13:00-05:00</published><updated>2020-11-15T18:13:00-05:00</updated><id>https://your-site-url/2020/11/15/my-new-post</id><content type="html" xml:base="https://your-site-url/2020/11/15/my-new-post.html">&lt;h2 id=&quot;bootstrap-forms&quot;&gt;Bootstrap forms&lt;/h2&gt;
 
 &lt;p&gt;Hi everyone. The idea with projects with the bootstrap tag is to display those that are purely made with this framework. This is the first one. And sorry, it was written in Spanish, but the content is worthless. Also I used popper that enrich bootstrap environment with events in JavaScript.&lt;/p&gt;
 
@@ -8,11 +75,11 @@
 
 &lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/Bootstrap-Typo/&quot;&gt;&lt;strong&gt;&lt;em&gt;Check project in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="bootstrap" /><summary type="html">Bootstrap forms</summary></entry><entry><title type="html">Creation</title><link href="https://your-site-url/2020/11/02/creation.html" rel="alternate" type="text/html" title="Creation" /><published>2020-11-02T09:47:00-05:00</published><updated>2020-11-02T09:47:00-05:00</updated><id>https://your-site-url/2020/11/02/creation</id><content type="html" xml:base="https://your-site-url/2020/11/02/creation.html">&lt;h2 id=&quot;welcome&quot;&gt;Welcome!&lt;/h2&gt;
 
-&lt;p&gt;Hi everyone. I created this blog to show some of my front-end projects I made using HTML, CSS, JavaScript; also frameworks and libraries like Bootstrap and Jquery. Just click on the tag of your interest and it will be retrived related content.&lt;/p&gt;
+&lt;p&gt;Hi everyone. I created this blog to show you some of my front-end projects I’ve been made using HTML, CSS, JavaScript; also frameworks and libraries like Bootstrap and Jquery. Just click on the tag of your interest and it will be retrived related content.&lt;/p&gt;
 
-&lt;p&gt;In every post you can find two related links, the first one open the project hosted in Github Pages. The second one moves you to the github repository where code is hosted. It also includes a summary of technical notes about components and how it was created according to the programming language or framework.&lt;/p&gt;
+&lt;p&gt;In every post you can find two related links, first one is to open the project hosted in Github Pages, the second moves you to the github repository where code is hosted too. It also includes a summary of technical notes about components and how it was made according to the programming language or framework.&lt;/p&gt;
 
-&lt;p&gt;If you’re an employer, a developer or a student I would feel pleased that you are interested in to check my work. Because of this website and their content are hosted in Github, you are absolutely free to colaborate and enhance thei projects using Forks. They were created and released just to collaborate to open source code.git push&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Welcome!</summary></entry><entry><title type="html">Hello World</title><link href="https://your-site-url/personal/2020/11/01/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2020-11-01T17:14:00-05:00</published><updated>2020-11-01T17:14:00-05:00</updated><id>https://your-site-url/personal/2020/11/01/hello-world</id><content type="html" xml:base="https://your-site-url/personal/2020/11/01/hello-world.html">&lt;p&gt;Hi, there. This is a post on my jekyll site.&lt;/p&gt;
+&lt;p&gt;If you’re an employer, a developer or a student I would feel pleased that you are interested in checking my work. Because of the published projects are hosted in Github, you are absolutely free to colaborate and enhance them using Forks. They were created and released to collaborate with open source endeavors.&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Welcome!</summary></entry><entry><title type="html">Hello World</title><link href="https://your-site-url/personal/2020/11/01/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2020-11-01T17:14:00-05:00</published><updated>2020-11-01T17:14:00-05:00</updated><id>https://your-site-url/personal/2020/11/01/hello-world</id><content type="html" xml:base="https://your-site-url/personal/2020/11/01/hello-world.html">&lt;p&gt;Hi, there. This is a post on my jekyll site.&lt;/p&gt;
 
 &lt;h2 id=&quot;what-else-is-here&quot;&gt;What else is here?&lt;/h2&gt;
 
