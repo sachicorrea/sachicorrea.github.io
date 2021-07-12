@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-19T17:02:21-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my professional blog which I show my projects in front-end technologies and some related to them. / Hola a todos. Soy sachic y estoy en mi proceso para convertirme en un programador web. Este es mi blog profesional donde muestro mis proyectos utilizando tecnologías front-end y otras relacionadas.</subtitle><entry><title type="html">404-page-error</title><link href="http://localhost:4000/2021/04/19/404-page-error.html" rel="alternate" type="text/html" title="404-page-error" /><published>2021-04-19T16:59:00-05:00</published><updated>2021-04-19T16:59:00-05:00</updated><id>http://localhost:4000/2021/04/19/404-page-error</id><content type="html" xml:base="http://localhost:4000/2021/04/19/404-page-error.html">&lt;h2 id=&quot;404-page-error-challenge&quot;&gt;404 page error challenge&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://your-site-url/feed.xml" rel="self" type="application/atom+xml" /><link href="https://your-site-url/" rel="alternate" type="text/html" /><updated>2021-07-12T16:44:10-05:00</updated><id>https://your-site-url/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my professional blog which I show or tell you how I've been making my web projects. / Hola a todos. Soy sachic y estoy en mi proceso para convertirme en un programador web. Este es mi blog profesional donde muestro o cuento como he hecho mis poyectos web.</subtitle><entry><title type="html">404-page-error</title><link href="https://your-site-url/2021/04/19/404-page-error.html" rel="alternate" type="text/html" title="404-page-error" /><published>2021-04-19T16:59:00-05:00</published><updated>2021-04-19T16:59:00-05:00</updated><id>https://your-site-url/2021/04/19/404-page-error</id><content type="html" xml:base="https://your-site-url/2021/04/19/404-page-error.html">&lt;h2 id=&quot;404-page-error-challenge&quot;&gt;404 page error challenge&lt;/h2&gt;
 
 &lt;p&gt;This is my first project from the challenges series on &lt;a href=&quot;https://devchallenges.io&quot; target=&quot;\_blank&quot;&gt;devChallenges.io&lt;/a&gt; website to show you my skills in responsive design using CSS only.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/404Challenge&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See how it was coded&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/404Challenge/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See it in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="css" /><summary type="html">404 page error challenge</summary></entry><entry><title type="html">Mi Hoja de Vida</title><link href="http://localhost:4000/2021/03/24/mi-hoja-de-vida.html" rel="alternate" type="text/html" title="Mi Hoja de Vida" /><published>2021-03-24T17:49:00-05:00</published><updated>2021-03-24T17:49:00-05:00</updated><id>http://localhost:4000/2021/03/24/mi-hoja-de-vida</id><content type="html" xml:base="http://localhost:4000/2021/03/24/mi-hoja-de-vida.html">&lt;style&gt;
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/404Challenge/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See it in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="css" /><summary type="html">404 page error challenge</summary></entry><entry><title type="html">Mi Hoja de Vida</title><link href="https://your-site-url/2021/03/24/mi-hoja-de-vida.html" rel="alternate" type="text/html" title="Mi Hoja de Vida" /><published>2021-03-24T17:49:00-05:00</published><updated>2021-03-24T17:49:00-05:00</updated><id>https://your-site-url/2021/03/24/mi-hoja-de-vida</id><content type="html" xml:base="https://your-site-url/2021/03/24/mi-hoja-de-vida.html">&lt;style&gt;
   img[src*=&quot;#thumbnail&quot;] {
     width:80px;
     height:50px;
@@ -20,60 +20,72 @@
     width: 100%;
     background-color: #DAE4ED;
   }
-
-  .skills {
-    text-align: right;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    color: #637AFE;
-    font-weight: bold; 
-  }
-
-  .html {width: 90%; background-color: #fddb8d;}
-  .css {width: 60%; background-color: #fddb8d;}
-  .js {width: 35%; background-color: #fddb8d;}
-  .php {width: 60%; background-color: #fddb8d;}
-  .mariadb {width: 70%; background-color: #fddb8d;}
-  .wordpress {width: 60%; background-color: #fddb8d;}
 &lt;/style&gt;
 
-&lt;h1 id=&quot;santiago-correa-sachic&quot;&gt;Santiago Correa (sachic)&lt;/h1&gt;
+&lt;h1 id=&quot;santiago-correa-restrepo-sachic&quot;&gt;Santiago Correa Restrepo (sachic)&lt;/h1&gt;
 
 &lt;h2 id=&quot;programador-web-junior&quot;&gt;Programador Web Junior&lt;/h2&gt;
 
-&lt;h2 id=&quot;my-skills&quot;&gt;My Skills&lt;/h2&gt;
+&lt;h2 id=&quot;mis-habilidades&quot;&gt;Mis habilidades&lt;/h2&gt;
 
-&lt;p&gt;HTML&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills html&quot;&gt;90%&lt;/div&gt;
-&lt;/div&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Lenguajes&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Otros&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;programación&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;lenguajes&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Python&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Html&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Php&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Css&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;JavaScript&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Mysql&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;CSS&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills css&quot;&gt;60%&lt;/div&gt;
-&lt;/div&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;JavaScript&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills js&quot;&gt;35%&lt;/div&gt;
-&lt;/div&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Tecnologías&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;con Python&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Flask&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;SQLAlchemy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;SQLLite&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pandas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Numpy&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
-&lt;p&gt;PHP&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills php&quot;&gt;60%&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;MariaDB&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills mariadb&quot;&gt;70%&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;Wordpress&lt;/p&gt;
-&lt;div class=&quot;container&quot;&gt;
-&lt;div class=&quot;skills wordpress&quot;&gt;60%&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;**&lt;/p&gt;
+&lt;p&gt;Si quiere contactarme, haga click en los links de Github y LinkedIn en la parte superior&lt;/p&gt;
 
 &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;posición&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Agente Bilingüe en Call Center&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
@@ -173,7 +185,6 @@
     Logros: Automatización en Excel para el resumen y procesamiento de datos
     numéricos como consumos en obras
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
   &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
@@ -192,54 +203,27 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Tecnólogo Análisis y Desarrollo de Sistemas de información - Jornada Nocturna&lt;/p&gt;
+    &lt;p&gt;Tecnólogo Análisis y Desarrollo de Sistemas de información&lt;/p&gt;
 
-    &lt;p&gt;Institucion: SENA. En curso&lt;/p&gt;
+    &lt;p&gt;Institucion: Servicio Nacional de Aprendizaje. En curso&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Curso Habilidades en Programación con Énfasis en Aplicaciones Web&lt;/p&gt;
+
+    &lt;p&gt;Programa dictado por el Minsiterio de las Telecomunicaciones - Mintic 2022. En curso&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Curso Inglés como Segunda Lengua&lt;/p&gt;
 
-    &lt;p&gt;Institucion: University of British Columbia. Período: Enero - Abril 2013&lt;/p&gt;
+    &lt;p&gt;Institucion: UBC - Vancouver, Canadá. Período: Enero - Abril 2013&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;hr /&gt;
-
-&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;referencias&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;compañía&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;dirección&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;email&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;contacto&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
-  &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;referencias_laborales&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
-&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;compañía&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Teleperformance Colombia&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;dirección&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Centro Empresarial Connecta / Calle 26 No. 92-32 Torre B
-  Piso 2 Bogotá&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;contacto&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;+57 (1)4049080 ext. 46219 y 46220&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;compañía&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ideándola S.A.S&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;dirección&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;comercial@ideandola.co&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;comercial@ideandola.co&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;contacto&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;+57 314 512 08 39&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;compañía&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Payc S.A.S&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;dirección&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Dirección: Calle 75 # 13-51 Piso 6, Bogotá&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;email&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;info@payc.co&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;contacto&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;+57 (1)325 65 00&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h2 id=&quot;mis-habilidades-blandas&quot;&gt;Mis habilidades blandas&lt;/h2&gt;
+&lt;h2 id=&quot;sobre-mis-habilidades-blandas&quot;&gt;Sobre mis habilidades blandas&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing&quot; title=&quot;Habilidades blandas Sachic&quot;&gt;&lt;img src=&quot;https://image.flaticon.com/icons/png/128/482/482059.png#icon&quot; alt=&quot;Video&quot; /&gt;&lt;/a&gt; Click en este ícono para conocerme un poco y donde resumo mis habilidades blandas.&lt;/p&gt;
 
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;creditos-logos-e-íconos&quot;&gt;Creditos logos e íconos:&lt;/h2&gt;
+&lt;h2 id=&quot;creditos-íconos&quot;&gt;Creditos íconos:&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Logos de Wordpress, HTML5, CSS3: https://cdn.svgporn.com/
@@ -248,7 +232,7 @@ Logo Pandas: ttps://towardsdatascience.com/
 Logo MsExcel: https://openclipart.org/
 Logo Sap: https://www.freepik.com from https://www.flaticon.com/
 Icono play: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html"></summary></entry><entry><title type="html">EventsJS1</title><link href="http://localhost:4000/2021/03/22/eventsjs1.html" rel="alternate" type="text/html" title="EventsJS1" /><published>2021-03-22T10:08:00-05:00</published><updated>2021-03-22T10:08:00-05:00</updated><id>http://localhost:4000/2021/03/22/eventsjs1</id><content type="html" xml:base="http://localhost:4000/2021/03/22/eventsjs1.html">&lt;h2 id=&quot;deleting-images&quot;&gt;Deleting Images&lt;/h2&gt;
+&lt;/blockquote&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html"></summary></entry><entry><title type="html">Events in Javascript 1</title><link href="https://your-site-url/2021/03/22/eventsjs1.html" rel="alternate" type="text/html" title="Events in Javascript 1" /><published>2021-03-22T10:08:00-05:00</published><updated>2021-03-22T10:08:00-05:00</updated><id>https://your-site-url/2021/03/22/eventsjs1</id><content type="html" xml:base="https://your-site-url/2021/03/22/eventsjs1.html">&lt;h2 id=&quot;deleting-images&quot;&gt;Deleting Images&lt;/h2&gt;
 
 &lt;p&gt;In this project, click on every image you want to remove but when you click on the last one, a short description of the computer science’s branch that this image represents will be displayed. I also used the following methods in Javascript to eliminate every image and manipulate DOM:&lt;/p&gt;
 
@@ -260,24 +244,126 @@ Icono play: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/eventsJSImages&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See how it was coded&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/eventsJSImages/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See it in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="javaScript" /><summary type="html">Deleting Images</summary></entry><entry><title type="html">My CV</title><link href="http://localhost:4000/2021/03/17/my-cv.html" rel="alternate" type="text/html" title="My CV" /><published>2021-03-17T16:51:00-05:00</published><updated>2021-03-17T16:51:00-05:00</updated><id>http://localhost:4000/2021/03/17/my-cv</id><content type="html" xml:base="http://localhost:4000/2021/03/17/my-cv.html">&lt;h1 id=&quot;sachic&quot;&gt;sachic&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/eventsJSImages/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;See it in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="javaScript" /><summary type="html">Deleting Images</summary></entry><entry><title type="html">My CV</title><link href="https://your-site-url/2021/03/17/my-cv.html" rel="alternate" type="text/html" title="My CV" /><published>2021-03-17T16:51:00-05:00</published><updated>2021-03-17T16:51:00-05:00</updated><id>https://your-site-url/2021/03/17/my-cv</id><content type="html" xml:base="https://your-site-url/2021/03/17/my-cv.html">&lt;style&gt;
+  img[src*=&quot;#thumbnail&quot;] {
+    width:80px;
+    height:50px;
+  }
+
+  img[src*=&quot;#icon&quot;] {
+    width:50px;
+    height:50px;
+    background:#fddb8d;
+  }
+
+  .container {
+    width: 100%;
+    background-color: #DAE4ED;
+  }
+&lt;/style&gt;
+
+&lt;h1 id=&quot;santiago-correa-restrepo-sachic&quot;&gt;Santiago Correa Restrepo (sachic)&lt;/h1&gt;
+
+&lt;h2 id=&quot;my-skills&quot;&gt;My skills&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Programming&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Other&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;languages&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;languages&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Python&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Html&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Php&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Css&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;JavaScript&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Mysql&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr /&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Python&lt;/th&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;technologies&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Flask&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;SQLAlchemy&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;SQLLite&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Pandas&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Numpy&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;If you want to contact me, click on my Github and LinkedIn links above&lt;/p&gt;
+
 &lt;h2 id=&quot;junior-web-programmer&quot;&gt;Junior Web Programmer&lt;/h2&gt;
+
+&lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Bilingual Agent - Call Center&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;company&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Teleperformance Colombia&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2020-19-11&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2021-04-02&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;funciones&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Customer service ENG/SPA. Basic technical assistance in service outages,
+    payments reception, changing services and others according to campaign's
+    needs.
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Junior Web Programmer&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;company&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Ideándola&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-10-07&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2020-04-30&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-07-10&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2020-30-04&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Duties&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Dynamic Websites Development using personalized  designs or templates&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Using of PHP in Wordpress to modify the behavior of  taxonomies, hooks, 
-    fields and filters and Wordpress core&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Responsive design on websites&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Programming of events for menus, buttons, drop-down  menus, etcetera&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;                                                                                
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Programming dynamic websites with personalized designs or templates&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Using of PHP in Wordpress to modify the behavior of taxonomies, hooks,
+    fields and filters and Wordpress core
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Responsive design on websites&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Programming of events for menus, buttons, drop-down menus and other elements
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Technologies&lt;/p&gt;
@@ -285,25 +371,30 @@ Icono play: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.svgporn.com/logos/wordpress-icon.svg#thumbnail&quot; alt=&quot;Wordpress&quot; /&gt;
 &lt;img src=&quot;https://cdn.svgporn.com/logos/html-5.svg#thumbnail&quot; alt=&quot;HTML5&quot; /&gt;
 &lt;img src=&quot;https://cdn.svgporn.com/logos/css-3.svg#thumbnail&quot; alt=&quot;CSS3&quot; /&gt;
-&lt;img src=&quot;https://clipground.com/images/jquery-icon-clipart.jpg#thumbnail&quot; alt=&quot;jQuery&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://clipground.com/images/jquery-icon-clipart.jpg#thumbnail&quot; alt=&quot;jQuery&quot; /&gt;
+&lt;img src=&quot;https://cdn.svgporn.com/logos/php.svg#thumbnail&quot; alt=&quot;PHP&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 
 &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Administrative Resident (Building Construction)&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;position&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Administrative Resident (Buildings Construction)&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;company&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Payc&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;fromDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2015-09-30&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
-  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-09-14&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+  &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;toDate&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;2019-09-14&quot;&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Duties&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Budget Control and report of projects advancements&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Making monthly reports for clients using graphs and tables to 
-    summarize data&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Achievemnts: Using Pandas library, Excel, Power Query and Power BI to 
-    improve data handling&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;                                                                                
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Budget Control and report of projects advancements&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Making monthly reports for clients using graphs and tables to summarize data
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;
+    Achievemnts: Using Pandas library, Excel, Power Query and Power BI to
+    improve data handling
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+  &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Technologies&lt;/p&gt;
@@ -311,23 +402,45 @@ Icono play: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/1600/1*93CVLqnQESmvfOhzvYUgQw.png#thumbnail&quot; alt=&quot;Pandas&quot; /&gt;
 &lt;img src=&quot;https://openclipart.org/image/800px/173140#thumbnail&quot; alt=&quot;Excel&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;**&lt;/p&gt;
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nx&quot;&gt;alert&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;Education&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;h2 id=&quot;credits&quot;&gt;Credits:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Analysis and Development of Information Systems Certificate&lt;/p&gt;
+
+    &lt;p&gt;Institution: National Service of Learning - Colombia. Expected date: January 2022&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Course in programming skills emphasized in web applications&lt;/p&gt;
+
+    &lt;p&gt;Institution: Program from the Communication Ministry - Colombia. Expected date: December 2021&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ESL course&lt;/p&gt;
+
+    &lt;p&gt;Institution: UBC - Vancouver, Canada. Dates: From January to April 2013&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;B.A.Sc in Civil Engineering
+Institution: National University - Colombia. Dates: 2003 - 2009&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;about-my-soft-skills&quot;&gt;About my soft skills&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://drive.google.com/file/d/150axhPuosXp6ZaXrvoPO0Vm5AKp0iYZH/view?usp=sharing&quot; title=&quot;Habilidades blandas Sachic&quot;&gt;&lt;img src=&quot;https://image.flaticon.com/icons/png/128/482/482059.png#icon&quot; alt=&quot;Video&quot; /&gt;&lt;/a&gt; Click en este ícono para conocerme un poco y donde resumo mis habilidades blandas.&lt;/p&gt;
+
+&lt;h2 id=&quot;icons-credits&quot;&gt;Icons credits:&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Wordpress, HTML5, CSS3 logos: https://cdn.svgporn.com/
 jQuery logo: https://clipground.com/
 Pandas logo: ttps://towardsdatascience.com/
-Excel logo: https://openclipart.org/&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;style&gt;
-    img[src*=&quot;#thumbnail&quot;] {
-        width:150px;
-        height:100px;
-    }
-&lt;/style&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html">sachic Junior Web Programmer</summary></entry><entry><title type="html">My New Bootstrap Post</title><link href="http://localhost:4000/2020/11/15/my-new-post.html" rel="alternate" type="text/html" title="My New Bootstrap Post" /><published>2020-11-15T18:13:00-05:00</published><updated>2020-11-15T18:13:00-05:00</updated><id>http://localhost:4000/2020/11/15/my-new-post</id><content type="html" xml:base="http://localhost:4000/2020/11/15/my-new-post.html">&lt;h2 id=&quot;bootstrap-forms&quot;&gt;Bootstrap forms&lt;/h2&gt;
+Excel logo: https://openclipart.org/
+Sap Logo: https://www.freepik.com from https://www.flaticon.com/
+Play icon: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
+&lt;/blockquote&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html"></summary></entry><entry><title type="html">My New Bootstrap Post</title><link href="https://your-site-url/2020/11/15/my-new-post.html" rel="alternate" type="text/html" title="My New Bootstrap Post" /><published>2020-11-15T18:13:00-05:00</published><updated>2020-11-15T18:13:00-05:00</updated><id>https://your-site-url/2020/11/15/my-new-post</id><content type="html" xml:base="https://your-site-url/2020/11/15/my-new-post.html">&lt;h2 id=&quot;bootstrap-forms&quot;&gt;Bootstrap forms&lt;/h2&gt;
 
 &lt;p&gt;Hi everyone. The idea with projects with the bootstrap tag is to display those that are purely made with this framework. This is the first one. And sorry, it was written in Spanish, but the content is worthless. Also I used popper that enrich bootstrap environment with events in JavaScript.&lt;/p&gt;
 
@@ -335,17 +448,13 @@ Excel logo: https://openclipart.org/&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/Bootstrap-Typo&quot;&gt;&lt;strong&gt;&lt;em&gt;Check code on my github repo&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/Bootstrap-Typo/&quot;&gt;&lt;strong&gt;&lt;em&gt;Check project in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="bootstrap" /><summary type="html">Bootstrap forms</summary></entry><entry><title type="html">Creation</title><link href="http://localhost:4000/2020/11/02/creation.html" rel="alternate" type="text/html" title="Creation" /><published>2020-11-02T09:47:00-05:00</published><updated>2020-11-02T09:47:00-05:00</updated><id>http://localhost:4000/2020/11/02/creation</id><content type="html" xml:base="http://localhost:4000/2020/11/02/creation.html">&lt;h2 id=&quot;welcome&quot;&gt;Welcome!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/Bootstrap-Typo/&quot;&gt;&lt;strong&gt;&lt;em&gt;Check project in real time&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="bootstrap" /><summary type="html">Bootstrap forms</summary></entry><entry><title type="html">Reasons of this website</title><link href="https://your-site-url/2020/11/02/creation.html" rel="alternate" type="text/html" title="Reasons of this website" /><published>2020-11-02T09:47:00-05:00</published><updated>2020-11-02T09:47:00-05:00</updated><id>https://your-site-url/2020/11/02/creation</id><content type="html" xml:base="https://your-site-url/2020/11/02/creation.html">&lt;h2 id=&quot;welcome&quot;&gt;Welcome!&lt;/h2&gt;
 
-&lt;p&gt;Hi everyone. I created this blog to show you some of my front-end projects I’ve been made using HTML, CSS, JavaScript; also frameworks and libraries like Bootstrap and Jquery. Just click on the tag of your interest and it will be retrived related content.&lt;/p&gt;
+&lt;p&gt;Hi everyone. I created this blog to show you some of my front-end projects I’ve been making using HTML, CSS, JavaScript; also frameworks and libraries like Bootstrap and Jquery. Just click on the tag of your interest and you’ll be redirected to the related content.&lt;/p&gt;
 
-&lt;p&gt;In every post you can find two related links, first one is to open the project hosted in Github Pages, the second moves you to the github repository where code is hosted too. It also includes a summary of technical notes about components and how it was made according to the programming language or framework.&lt;/p&gt;
+&lt;p&gt;Some posts, especially those about have two links, the first one is to open the project hosted in Github Pages, the second one address you to the github repository respectively. Other posts, especially those related to more complex projects, includes only a summary of technical notes about how it was made. Some posts can also include links to online IDEs where user can run them.&lt;/p&gt;
 
-&lt;p&gt;If you’re an employer, a developer or a student I would feel pleased that you are interested in checking my work. Because of the published projects are hosted in Github, you are absolutely free to colaborate and enhance them using Forks. They were created and released to collaborate with open source endeavors.&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Welcome!</summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/personal/2020/11/01/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2020-11-01T17:14:00-05:00</published><updated>2020-11-01T17:14:00-05:00</updated><id>http://localhost:4000/personal/2020/11/01/hello-world</id><content type="html" xml:base="http://localhost:4000/personal/2020/11/01/hello-world.html">&lt;p&gt;Hi, there. This is a post on my jekyll site.&lt;/p&gt;
-
-&lt;h2 id=&quot;what-else-is-here&quot;&gt;What else is here?&lt;/h2&gt;
-
-&lt;p&gt;More stuffs coming soon…&lt;/p&gt;</content><author><name></name></author><category term="personal" /><category term="intro" /><summary type="html">Hi, there. This is a post on my jekyll site.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2020/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-01T14:09:19-05:00</published><updated>2020-11-01T14:09:19-05:00</updated><id>http://localhost:4000/jekyll/update/2020/11/01/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/11/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;If you’re an employer, a developer or a student I would feel pleased that you are interested in checking my work. Because of these projects are hosted or saved in Github, you are absolutely free to colaborate and enhance them using Forks. They were created and released to collaborate with open source endeavors.&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Welcome!</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://your-site-url/jekyll/update/2020/11/01/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-11-01T14:09:19-05:00</published><updated>2020-11-01T14:09:19-05:00</updated><id>https://your-site-url/jekyll/update/2020/11/01/welcome-to-jekyll</id><content type="html" xml:base="https://your-site-url/jekyll/update/2020/11/01/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
