@@ -3,21 +3,21 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>My New Bootstrap Post | sachic portfolio</title>
+<title>Bad interpreter - no file or folder in Jekyll | sachic portfolio</title>
 <meta name="generator" content="Jekyll v4.2.1" />
-<meta property="og:title" content="My New Bootstrap Post" />
+<meta property="og:title" content="Bad interpreter - no file or folder in Jekyll" />
 <meta property="og:locale" content="en_US" />
-<meta name="description" content="Bootstrap forms" />
-<meta property="og:description" content="Bootstrap forms" />
-<link rel="canonical" href="/2020/11/15/my-new-post.html" />
-<meta property="og:url" content="/2020/11/15/my-new-post.html" />
+<meta name="description" content="Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes." />
+<meta property="og:description" content="Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes." />
+<link rel="canonical" href="/2022/02/13/jekyll-not-working.html" />
+<meta property="og:url" content="/2022/02/13/jekyll-not-working.html" />
 <meta property="og:site_name" content="sachic portfolio" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2020-11-15T18:13:00-05:00" />
+<meta property="article:published_time" content="2022-02-13T22:22:00-05:00" />
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="My New Bootstrap Post" />
+<meta property="twitter:title" content="Bad interpreter - no file or folder in Jekyll" />
 <script type="application/ld+json">
-{"@type":"BlogPosting","url":"/2020/11/15/my-new-post.html","headline":"My New Bootstrap Post","dateModified":"2020-11-15T18:13:00-05:00","datePublished":"2020-11-15T18:13:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2020/11/15/my-new-post.html"},"description":"Bootstrap forms","@context":"https://schema.org"}</script>
+{"@type":"BlogPosting","url":"/2022/02/13/jekyll-not-working.html","headline":"Bad interpreter - no file or folder in Jekyll","dateModified":"2022-02-13T22:22:00-05:00","datePublished":"2022-02-13T22:22:00-05:00","mainEntityOfPage":{"@type":"WebPage","@id":"/2022/02/13/jekyll-not-working.html"},"description":"Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="icon" type="image/png" href="/assets/favicon.png" /><link type="application/atom+xml" rel="alternate" href="/feed.xml" title="sachic portfolio" /></head>
@@ -44,25 +44,41 @@ Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer
 
 
 <div class="post">
-  <h1 class="post-title">My New Bootstrap Post</h1>
+  <h1 class="post-title">Bad interpreter - no file or folder in Jekyll</h1>
   
   <div class="post-tags">
       
-      <a class="tag" href="/tag/bootstrap/">bootstrap</a>
+      <a class="tag" href="/tag/jekyll/">jekyll</a>
       
   </div>
   
-  <div class="post-date">Published on 15 Nov 2020</div>
+  <div class="post-date">Published on 13 Feb 2022</div>
   
-  <h2 id="bootstrap-forms">Bootstrap forms</h2>
+  <p>Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.</p>
 
-<p>Hi everyone. The idea with projects with the bootstrap tag is to display those that are purely made with this framework. This is the first one. And sorry, it was written in Spanish, but the content is worthless. Also I used popper that enrich bootstrap environment with events in JavaScript.</p>
+<p><strong>bad interpreter: no file or folder</strong></p>
 
-<p>The first part are shows headings and text orientation. They were made with h1 and h2 labels also text classes for the secon case. At the end of the page, I did a striped table with a hover if the cursor is on an specific row. Hover intensity is tenous so keep an eye on it to noticed it.</p>
+<p>I have to admit that I abandoned this blog for many months, and during this period of inactivation I updated my OS version, moving from Ubuntu 18.04 to 20.04, so when I tried to run the Jekyll server again, everything turned into a complete mess.</p>
 
-<p><a href="https://github.com/sachicorrea/Bootstrap-Typo"><strong><em>Code</em></strong></a></p>
+<p>Immediately, I searched for this error and found an answer on the <a href="https://askubuntu.com/" target="\_blank">askubuntu.com</a> website that works perfectly for me, especially answers made by users Piotr and juneja, which I prefer to summarize here. First of all, open a new terminal and run the following commands to uninstall and re-install Jekyll. In this case, you don’t need to go to the folder where the Jekyll project is located because Jekyll as well as Bundler gems were installed globally.</p>
 
-<p><a href="https://sachicorrea.github.io/Bootstrap-Typo/"><strong><em>Website</em></strong></a></p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem uninstall jekyll
+gem install jekyll
+</code></pre></div></div>
+
+<p>After that, run the following commands in order to uninstall and re-install the bundler gem into the home folder in the terminal.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>gem uninstall bundler
+gem install bundler
+</code></pre></div></div>
+
+<p>The final step is to update the _config.yml file located in the root of your Jekyll project, looking for the row where the jekyll gem is required and changing its version for the current one installed. In my case:</p>
+
+<p><code class="language-plaintext highlighter-rouge">gem "jekyll", "~&gt; 4.2.1"</code></p>
+
+<p>Completed the steps described above, run <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code> in your Jekyll project’s folder and you will interact with it in your developer environment again.</p>
+
+<p><em>Citations: <a href="https://askubuntu.com/questions/785196/jekyll-broken-after-upgrading-ubuntu-ruby" target="\_blank">Jekyll broken after upgrading Ubuntu/Ruby</a></em></p>
 
 
 </div>
@@ -72,9 +88,9 @@ Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer
 <div id="disqus_thread"></div>
 <script>
  var disqus_config = function () {
-     this.page.url = '/2020/11/15/my-new-post.html';
-     this.page.identifier = '/2020/11/15/my-new-post';
-     this.page.title = 'My New Bootstrap Post';
+     this.page.url = '/2022/02/13/jekyll-not-working.html';
+     this.page.identifier = '/2022/02/13/jekyll-not-working';
+     this.page.title = 'Bad interpreter - no file or folder in Jekyll';
  };
 
  (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
@@ -99,14 +115,6 @@ Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer
     
       <li>
         <h3>
-          <a href="/2022/02/13/jekyll-not-working.html">
-            Bad interpreter - no file or folder in Jekyll
-          </a>
-        </h3>
-      </li>
-    
-      <li>
-        <h3>
           <a href="/2021/04/19/404-page-error.html">
             404-page-error
           </a>
@@ -117,6 +125,14 @@ Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer
         <h3>
           <a href="/2021/03/24/mi-hoja-de-vida.html">
             Quién soy? Fomato HV
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2021/03/22/eventsjs1.html">
+            Events in Javascript
           </a>
         </h3>
       </li>

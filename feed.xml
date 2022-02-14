@@ -1,9 +1,34 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-13T16:52:00-05:00</updated><id>/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my blog about web development topics</subtitle><entry><title type="html">404-page-error</title><link href="/2021/04/19/404-page-error.html" rel="alternate" type="text/html" title="404-page-error" /><published>2021-04-19T16:59:00-05:00</published><updated>2021-04-19T16:59:00-05:00</updated><id>/2021/04/19/404-page-error</id><content type="html" xml:base="/2021/04/19/404-page-error.html">&lt;h2 id=&quot;404-page-error-challenge&quot;&gt;404 page error challenge&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-13T23:18:58-05:00</updated><id>/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my blog about web development topics</subtitle><entry><title type="html">Bad interpreter - no file or folder in Jekyll</title><link href="/2022/02/13/jekyll-not-working.html" rel="alternate" type="text/html" title="Bad interpreter - no file or folder in Jekyll" /><published>2022-02-13T22:22:00-05:00</published><updated>2022-02-13T22:22:00-05:00</updated><id>/2022/02/13/jekyll-not-working</id><content type="html" xml:base="/2022/02/13/jekyll-not-working.html">&lt;p&gt;Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;bad interpreter: no file or folder&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I have to admit that I abandoned this blog for many months, and during this period of inactivation I updated my OS version, moving from Ubuntu 18.04 to 20.04, so when I tried to run the Jekyll server again, everything turned into a complete mess.&lt;/p&gt;
+
+&lt;p&gt;Immediately, I searched for this error and found an answer on the &lt;a href=&quot;https://askubuntu.com/&quot; target=&quot;\_blank&quot;&gt;askubuntu.com&lt;/a&gt; website that works perfectly for me, especially answers made by users Piotr and juneja, which I prefer to summarize here. First of all, open a new terminal and run the following commands to uninstall and re-install Jekyll. In this case, you don’t need to go to the folder where the Jekyll project is located because Jekyll as well as Bundler gems were installed globally.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem uninstall jekyll
+gem install jekyll
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;After that, run the following commands in order to uninstall and re-install the bundler gem into the home folder in the terminal.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;gem uninstall bundler
+gem install bundler
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;The final step is to update the _config.yml file located in the root of your Jekyll project, looking for the row where the jekyll gem is required and changing its version for the current one installed. In my case:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;gem &quot;jekyll&quot;, &quot;~&amp;gt; 4.2.1&quot;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Completed the steps described above, run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt; in your Jekyll project’s folder and you will interact with it in your developer environment again.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Citations: &lt;a href=&quot;https://askubuntu.com/questions/785196/jekyll-broken-after-upgrading-ubuntu-ruby&quot; target=&quot;\_blank&quot;&gt;Jekyll broken after upgrading Ubuntu/Ruby&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><summary type="html">Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.</summary></entry><entry><title type="html">404-page-error</title><link href="/2021/04/19/404-page-error.html" rel="alternate" type="text/html" title="404-page-error" /><published>2021-04-19T16:59:00-05:00</published><updated>2021-04-19T16:59:00-05:00</updated><id>/2021/04/19/404-page-error</id><content type="html" xml:base="/2021/04/19/404-page-error.html">&lt;h2 id=&quot;404-page-error-challenge&quot;&gt;404 page error challenge&lt;/h2&gt;
 
 &lt;p&gt;This is my first project from the challenges series posted on &lt;a href=&quot;https://devchallenges.io&quot; target=&quot;\_blank&quot;&gt;devChallenges.io&lt;/a&gt; website to show you, in this case, my skills in responsive design using CSS only.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/404Challenge&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Code&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;
-&lt;a href=&quot;https://sachicorrea.github.io/404Challenge/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="challenges" /><summary type="html">404 page error challenge</summary></entry><entry><title type="html">Quién soy? Fomato HV</title><link href="/2021/03/24/mi-hoja-de-vida.html" rel="alternate" type="text/html" title="Quién soy? Fomato HV" /><published>2021-03-24T17:49:00-05:00</published><updated>2021-03-24T17:49:00-05:00</updated><id>/2021/03/24/mi-hoja-de-vida</id><content type="html" xml:base="/2021/03/24/mi-hoja-de-vida.html">&lt;style&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/404Challenge&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Code&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/404Challenge/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="challenges" /><summary type="html">404 page error challenge</summary></entry><entry><title type="html">Quién soy? Fomato HV</title><link href="/2021/03/24/mi-hoja-de-vida.html" rel="alternate" type="text/html" title="Quién soy? Fomato HV" /><published>2021-03-24T17:49:00-05:00</published><updated>2021-03-24T17:49:00-05:00</updated><id>/2021/03/24/mi-hoja-de-vida</id><content type="html" xml:base="/2021/03/24/mi-hoja-de-vida.html">&lt;style&gt;
   img[src*=&quot;#icon&quot;] {
     width:50px;
     height:50px;
@@ -11,7 +36,7 @@
   }
 &lt;/style&gt;
 
-&lt;p&gt;(sachic)&lt;/p&gt;
+&lt;h1 id=&quot;sachic&quot;&gt;sachic&lt;/h1&gt;
 &lt;h2 id=&quot;habilidades&quot;&gt;Habilidades&lt;/h2&gt;
 
 &lt;table&gt;
@@ -95,9 +120,9 @@
 &lt;h2 id=&quot;creditos-íconos&quot;&gt;Creditos íconos:&lt;/h2&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Icono play: https://www.freepik.com from https://www.flaticon.com/&lt;/p&gt;
-&lt;/blockquote&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html"></summary></entry><entry><title type="html">Events in Javascript 1</title><link href="/2021/03/22/eventsjs1.html" rel="alternate" type="text/html" title="Events in Javascript 1" /><published>2021-03-22T10:08:00-05:00</published><updated>2021-03-22T10:08:00-05:00</updated><id>/2021/03/22/eventsjs1</id><content type="html" xml:base="/2021/03/22/eventsjs1.html">&lt;h2 id=&quot;deleting-images&quot;&gt;Deleting Images&lt;/h2&gt;
+&lt;/blockquote&gt;</content><author><name>sachic</name></author><category term="personal" /><summary type="html"></summary></entry><entry><title type="html">Events in Javascript</title><link href="/2021/03/22/eventsjs1.html" rel="alternate" type="text/html" title="Events in Javascript" /><published>2021-03-22T10:08:00-05:00</published><updated>2021-03-22T10:08:00-05:00</updated><id>/2021/03/22/eventsjs1</id><content type="html" xml:base="/2021/03/22/eventsjs1.html">&lt;h2 id=&quot;removing-images&quot;&gt;Removing Images&lt;/h2&gt;
 
-&lt;p&gt;In this project, click on every image you want to remove it but when you click on the last one, a short description of the computer science’s branch that this image represents will be displayed.The following methods were used in Javascript to get rid of every image through DOM manipulation:&lt;/p&gt;
+&lt;p&gt;In this project, click on every image you want to remove it but when you click on the last one, a short description of the computer science’s branch that this image represents will be displayed. The following methods were used in Javascript to get rid of images with DOM manipulation:&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;addEventListener&lt;/li&gt;
@@ -107,7 +132,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/eventsJSImages&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Code&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/eventsJSImages/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="javaScript" /><summary type="html">Deleting Images</summary></entry><entry><title type="html">Who am I? CV format</title><link href="/2021/03/17/my-cv.html" rel="alternate" type="text/html" title="Who am I? CV format" /><published>2021-03-17T16:51:00-05:00</published><updated>2021-03-17T16:51:00-05:00</updated><id>/2021/03/17/my-cv</id><content type="html" xml:base="/2021/03/17/my-cv.html">&lt;style&gt;
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/eventsJSImages/&quot; target=&quot;\_blank&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="javaScript" /><summary type="html">Removing Images</summary></entry><entry><title type="html">Who am I? CV format</title><link href="/2021/03/17/my-cv.html" rel="alternate" type="text/html" title="Who am I? CV format" /><published>2021-03-17T16:51:00-05:00</published><updated>2021-03-17T16:51:00-05:00</updated><id>/2021/03/17/my-cv</id><content type="html" xml:base="/2021/03/17/my-cv.html">&lt;style&gt;
   img[src*=&quot;#icon&quot;] {
     width:50px;
     height:50px;
@@ -116,7 +141,6 @@
 &lt;/style&gt;
 
 &lt;h1 id=&quot;sachic&quot;&gt;sachic&lt;/h1&gt;
-
 &lt;h2 id=&quot;skills&quot;&gt;Skills&lt;/h2&gt;
 
 &lt;table&gt;
@@ -212,9 +236,12 @@
 
 &lt;p&gt;&lt;a href=&quot;https://github.com/sachicorrea/Bootstrap-Typo&quot;&gt;&lt;strong&gt;&lt;em&gt;Code&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/Bootstrap-Typo/&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="bootstrap" /><summary type="html">Bootstrap forms</summary></entry><entry><title type="html">Reasons why this block was created</title><link href="/2020/11/02/creation.html" rel="alternate" type="text/html" title="Reasons why this block was created" /><published>2020-11-02T09:47:00-05:00</published><updated>2020-11-02T09:47:00-05:00</updated><id>/2020/11/02/creation</id><content type="html" xml:base="/2020/11/02/creation.html">&lt;h2 id=&quot;updated-february-11th-2022---welcome&quot;&gt;Updated February 11th 2022 - Welcome!&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://sachicorrea.github.io/Bootstrap-Typo/&quot;&gt;&lt;strong&gt;&lt;em&gt;Website&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="bootstrap" /><summary type="html">Bootstrap forms</summary></entry><entry><title type="html">Reasons why this blog was created for</title><link href="/2020/11/02/creation.html" rel="alternate" type="text/html" title="Reasons why this blog was created for" /><published>2020-11-02T09:47:00-05:00</published><updated>2020-11-02T09:47:00-05:00</updated><id>/2020/11/02/creation</id><content type="html" xml:base="/2020/11/02/creation.html">&lt;h2 id=&quot;updated-february-11th-2022---welcome&quot;&gt;Updated February 11th 2022 - Welcome!&lt;/h2&gt;
 
-&lt;p&gt;Hi everyone. At first, I created this blog to show you some of my front-end projects using common technologies like HTML, CSS, and JavaScript, but since I’ve been going through a few back-end languages and frameworks, I preferred to add posts with common troubles I experienced using them. If you want to filter posts by topic, just click on the tag of your interest.
-Posts related to my published projects have two links: the first one will route you to the deployed project, and the second one will take you to the specific repository that contains its source code. Other posts may also include links to online IDEs where you can run them if it’s possible.
-Because projects are published in cloud-based repositories, you can make your own forks not only to collaborate but to enhance them. They were released with the purpose of collaborating on open source endeavors.
-Finally, if you’re a developer or a student, I would be pleased with your interest in the topics displayed here, so check the connected content.&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Updated February 11th 2022 - Welcome!</summary></entry></feed>
+&lt;p&gt;Hi everyone. At first, I created this blog to show you some of my front-end projects using common technologies like HTML, CSS, and JavaScript, but since I’ve been going through a few back-end languages and frameworks, I preferred to add posts with common troubles I experienced using them. If you want to filter posts by topic, just click on the tag of your interest.&lt;/p&gt;
+
+&lt;p&gt;Posts related to my published projects have two links: the first one will route you to the deployed project, and the second one will take you to the specific repository that contains its source code. Other posts may also include links to online IDEs where you can run them if it’s possible.&lt;/p&gt;
+
+&lt;p&gt;Because projects are published in cloud-based repositories, you can make your own forks to enhance them. They were released with the purpose of collaborating on open source endeavors.&lt;/p&gt;
+
+&lt;p&gt;Finally, if you’re a developer or a student, I would be pleased with your interest in the topics displayed here, so check them to find useful information, to review my work or just for fun.&lt;/p&gt;</content><author><name></name></author><category term="intro" /><summary type="html">Updated February 11th 2022 - Welcome!</summary></entry></feed>
