@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-13T23:18:58-05:00</updated><id>/feed.xml</id><title type="html">sachic portfolio</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my blog about web development topics</subtitle><entry><title type="html">Bad interpreter - no file or folder in Jekyll</title><link href="/2022/02/13/jekyll-not-working.html" rel="alternate" type="text/html" title="Bad interpreter - no file or folder in Jekyll" /><published>2022-02-13T22:22:00-05:00</published><updated>2022-02-13T22:22:00-05:00</updated><id>/2022/02/13/jekyll-not-working</id><content type="html" xml:base="/2022/02/13/jekyll-not-working.html">&lt;p&gt;Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-02-14T23:09:23-05:00</updated><id>/feed.xml</id><title type="html">programming blog</title><subtitle>Hi everyone. I'm sachic and I'm in a learning pathway to become a web programmer. This is my blog about web development topics</subtitle><entry><title type="html">Bad interpreter - no file or folder in Jekyll</title><link href="/2022/02/13/jekyll-not-working.html" rel="alternate" type="text/html" title="Bad interpreter - no file or folder in Jekyll" /><published>2022-02-13T22:22:00-05:00</published><updated>2022-02-13T22:22:00-05:00</updated><id>/2022/02/13/jekyll-not-working</id><content type="html" xml:base="/2022/02/13/jekyll-not-working.html">&lt;p&gt;Hi everyone. A few days ago, I was trying to run this blog locally, but I got an error that drove me crazy for a few minutes.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;bad interpreter: no file or folder&lt;/strong&gt;&lt;/p&gt;
 
@@ -72,7 +72,7 @@ gem install bundler
 &lt;/table&gt;
 
 &lt;hr /&gt;
-&lt;p&gt;Si quiere ver más de mi trabajo, haga click en los links de Github y LinkedIn en la parte superior&lt;/p&gt;
+&lt;p&gt;Si quiere ver más de mi trabajo o contactarme, haga click en los links de Github, LinkedIn o Twitter en la parte superior&lt;/p&gt;
 
 &lt;div class=&quot;language-json highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
   &lt;/span&gt;&lt;span class=&quot;nl&quot;&gt;&quot;posición&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;w&quot;&gt; &lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Desarrollador de Software Junior&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
@@ -177,7 +177,7 @@ gem install bundler
 
 &lt;hr /&gt;
 
-&lt;p&gt;If you want to check more about my work, click on my Github and LinkedIn links above&lt;/p&gt;
+&lt;p&gt;If you want to check more about my work or to contact me, click on my Github, LinkedIn and Twitter links above.&lt;/p&gt;
 
 &lt;h2 id=&quot;junior-web-programmer&quot;&gt;Junior Web Programmer&lt;/h2&gt;
 
