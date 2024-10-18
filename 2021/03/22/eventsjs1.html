@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html class="direction--ltr"lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Events in Javascript | programming blog</title>
+<meta name="generator" content="Jekyll v3.10.0" />
+<meta property="og:title" content="Events in Javascript" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Removing Images" />
+<meta property="og:description" content="Removing Images" />
+<link rel="canonical" href="http://localhost:4000/_site/2021/03/22/eventsjs1.html" />
+<meta property="og:url" content="http://localhost:4000/_site/2021/03/22/eventsjs1.html" />
+<meta property="og:site_name" content="programming blog" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-03-22T10:08:00-05:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Events in Javascript" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2021-03-22T10:08:00-05:00","datePublished":"2021-03-22T10:08:00-05:00","description":"Removing Images","headline":"Events in Javascript","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/_site/2021/03/22/eventsjs1.html"},"url":"http://localhost:4000/_site/2021/03/22/eventsjs1.html"}</script>
+<!-- End Jekyll SEO tag -->
+<link rel="stylesheet" href="/_site/assets/css/style.css">
+  <link rel="icon" type="image/png" href="/_site/assets/favicon.png" />
+  <link rel="stylesheet" href="/_site/assets/css/magnific-popup.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/_site/feed.xml" title="programming blog" /><script src="https://code.jquery.com/jquery-3.2.0.min.js"></script> 
+  <script src="/_site/assets/js/jquery.magnific-popup.js"></script>
+</head>
+<body><div class="site-header">
+  <div class="wrapper">
+    <a class="site-title" rel="author" href="/_site/">programming blog<b class="command_prompt"></b><b class="blinking_cursor">_</b></a>
+    <span class="social_links">
+        
+        
+        <a class="color-red-hover" href="https://www.linkedin.com/in/santiago-correar/"><i class="fab fa-linkedin"></i></a>
+        
+        
+        
+        <a class="color-purple-hover" href="https://github.com/sachicorrea"><i class="fab fa-github-square"></i></a>
+        
+        
+    </span>
+  </div>
+</div>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        
+  <div class="author-box">
+
+
+<img src="
+    https://gravatar.com/avatar/scorrear@tutanota.com?s=256
+" class="author-avatar" alt="Avatar" />
+<div class="description">Hi everyone. I'm sachic and I'm in a learning pathway to automate repetitive task through programming. This is my blog about general programing topics</div>
+
+</div>
+
+
+<div class="post">
+  <h1 class="post-title">Events in Javascript</h1>
+  
+  <div class="post-tags">
+      
+      <a class="tag" href="javaScript">javaScript</a>
+      
+  </div>
+  
+  <div class="post-date">
+    Published on 22 Mar 2021
+    
+  </div>
+  
+  <h2 id="removing-images">Removing Images</h2>
+
+<p>In this project, click on every image you want to remove it but when you click on the last one, a short description of the computer science’s branch that this image represents will be displayed. The following methods were used in Javascript to get rid of images with DOM manipulation:</p>
+
+<ol>
+  <li>addEventListener</li>
+  <li>removeTarget</li>
+  <li>parentNode</li>
+</ol>
+
+<p><a href="https://github.com/sachicorrea/eventsJSImages" target="\_blank"><strong><em>Code</em></strong></a></p>
+
+<p><a href="https://sachicorrea.github.io/eventsJSImages/" target="\_blank"><strong><em>Website</em></strong></a></p>
+
+
+</div>
+
+
+<div class="comments">
+<div id="disqus_thread"></div>
+<script>
+ var disqus_config = function () {
+     this.page.url = 'http://localhost:4000/2021/03/22/eventsjs1.html';
+     this.page.identifier = '/2021/03/22/eventsjs1';
+     this.page.title = 'Events in Javascript';
+ };
+
+ (function() {  // REQUIRED CONFIGURATION VARIABLE: EDIT THE SHORTNAME BELOW
+     var d = document, s = d.createElement('script');
+
+     s.src = '//<your-disqus-shortname>.disqus.com/embed.js';
+
+     s.setAttribute('data-timestamp', +new Date());
+     (d.head || d.body).appendChild(s);
+ })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+</div>
+
+
+
+
+<div class="related">
+  <h2>related posts</h2>
+  <ul class="related-posts">
+    
+      <li>
+        <h3>
+          <a href="/2024/10/13/creation.html">
+            Reasons about this blog creation
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2022/02/13/jekyll-not-working.html">
+            Bad interpreter - no file or folder in Jekyll
+          </a>
+        </h3>
+      </li>
+    
+      <li>
+        <h3>
+          <a href="/2021/04/19/404-page-error.html">
+            404-page-error
+          </a>
+        </h3>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+  
+
+
+
+
+<script>
+  let i = 0;
+  const text = '';
+  const speed = parseInt('50');
+  
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById('animated-post-description').innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, speed);
+    }
+  }
+
+  document.getElementById('animated-post-description').style.display = 'initial';
+  typeWriter();
+
+  // Image modal
+  var $imgs = [];
+  $('img').each(function(idx) {
+    var obj = {
+      src: $(this).attr('src')
+    }
+    $imgs.push(obj);
+    var elem = $(this);
+    $(this).click(function() {
+      $('.modal').magnificPopup('open', idx);
+    });
+  });
+
+  $('.modal').magnificPopup({
+    items: $imgs,
+    type: 'image',
+    closeOnContentClick: true,
+    mainClass: 'mfp-img-mobile',
+    image: {
+      verticalFit: true
+    }
+    
+  });
+</script>
+
+      </div>
+    </main><footer class="site-footer">
+  <div class="wrapper">
+    <div class="credits"><a href="https://github.com/bitbrain/jekyll-dash">dash</a> theme for Jekyll by <a href="https://github.com/bitbrain">bitbrain</a> made with <i class="fas fa-heart"></i><div class="toggleWrapper">
+    <input type="checkbox" class="dn" id="theme-toggle" onclick="modeSwitcher()" checked />
+    <label for="theme-toggle" class="toggle">
+    <span class="toggle__handler">
+      <span class="crater crater--1"></span>
+      <span class="crater crater--2"></span>
+      <span class="crater crater--3"></span>
+    </span>
+        <span class="star star--1"></span>
+        <span class="star star--2"></span>
+        <span class="star star--3"></span>
+        <span class="star star--4"></span>
+        <span class="star star--5"></span>
+        <span class="star star--6"></span>
+    </label>
+</div>
+<script type="text/javascript">
+const theme = localStorage.getItem('theme');
+
+if (theme === "light") {
+    document.documentElement.setAttribute('data-theme', 'light');
+} else {
+    document.documentElement.setAttribute('data-theme', 'dark');
+}
+const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
+
+function activateDarkTheme() {
+    document.getElementById('theme-toggle').checked = true;
+    document.documentElement.setAttribute('data-theme', 'dark');
+    document.documentElement.classList.add('theme--dark');
+    document.documentElement.classList.remove('theme--light');
+	document.getElementById("theme-toggle").className = 'light';
+	window.localStorage.setItem('theme', 'dark');
+}
+
+function activateLightTheme() {
+    document.getElementById('theme-toggle').checked = false;
+    document.documentElement.setAttribute('data-theme', 'light');
+    document.documentElement.classList.add('theme--light');
+    document.documentElement.classList.remove('theme--dark');
+	document.getElementById("theme-toggle").className = 'dark';
+	window.localStorage.setItem('theme', 'light');
+}
+
+if (theme === "dark") {
+    activateDarkTheme();
+} else if (theme === "light") {
+    activateLightTheme();
+} else if  (userPrefers === "light") {
+    activateDarkTheme();
+} else {
+    activateDarkTheme();
+}
+
+function modeSwitcher() {
+	let currentMode = document.documentElement.getAttribute('data-theme');
+	if (currentMode === "dark") {
+	    activateLightTheme();
+	} else {
+	    activateDarkTheme();
+	}
+}
+</script></div>
+  </div>
+</footer>
+
+
+<script>
+      window.FontAwesomeConfig = {
+        searchPseudoElements: true
+      }
+    </script>
+  </body>
+
+</html>
